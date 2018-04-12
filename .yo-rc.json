@@ -17,7 +17,7 @@
     "searchEngine": false,
     "enableSwaggerCodegen": false,
     "messageBroker": false,
-    "buildTool": "maven",
+    "buildTool": "gradle",
     "enableSocialSignIn": false,
     "useSass": true,
     "clientPackageManager": "yarn",
